@@ -4,8 +4,9 @@ Shuwen ([Zhang, Shuwen](http://imslp.org/wiki/Category:Zhang,_Shuwen)) got a new
 
 However, shuwen need a solution to arrange class for his students, and he did it mannuly which cost him a long time to solve. Then, I give it a simple solution to find a seemingly satisfactory solutions for this problem.
 ## Problem Statement
-### He needs to arrange 26 students within one week schedule 
-### Each students has his/her time available for this class. For example:
+*He needs to arrange 26 students within one week schedule*
+*Each students has his/her time available for this class.*
+For example:
 ```javascript
 金文瑶, 0, 一6-9、三6-9、四6-7、五1-5,8-9
 ```
