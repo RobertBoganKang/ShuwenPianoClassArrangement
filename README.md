@@ -15,7 +15,7 @@ For example:
 ```
 The first data `金文瑶` represent the name of student; 
 
-The second data `0` means he takes 0.5 classes time (for this case, in one class time, he can arrange 2 students at this period), however if it is `1`, this student take the whole class time;
+The second data `0` means he takes 0.5 classes time (for this case, in one class time, he can arrange 2 students), however if it is `1`, this student take the whole class time;
 
 The third data `一6-9、三6-9、四6-7、五1-5,8-9` represents the time available. Such as, `一6-9` is Monday's class 6 to class 9 are available;
 ### No classes at certain time
