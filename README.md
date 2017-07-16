@@ -1,6 +1,6 @@
 # Shuwen's Piano Class Arrangement
 ## Introduction
-Shuwen ([Zhang, Shuwen](http://imslp.org/wiki/Category:Zhang,_Shuwen)) got a new job at Zhejiang Music Conservatory to teach piano 1 on 1 class.
+Shuwen ([Zhang, Shuwen](http://imslp.org/wiki/User:Shuwen_Zhang)) got a new job at Zhejiang Music Conservatory to teach piano 1 on 1 class.
 
 However, shuwen need a solution to arrange classes for his students, and he did it manually which cost him a long time to solve. Then, I give it a simple solution (naive algorithm) to find a seemingly satisfactory solutions for this problem.
 ## Problem Statement
