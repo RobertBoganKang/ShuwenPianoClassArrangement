@@ -27,4 +27,4 @@ Method I: we can just guess the solution, if it is not satisfied we will guess o
 Method II (trial): this method is purely the DFS method that will consider all cases which is impossible.
 
 ## Interesting Story
-Although this is super hard problem to solve, Shuwen has find one solution I call it "The God Solution" (namely, the solution came from god). This solution is also posted here.
+Although this is super hard problem to solve, Shuwen has find one solution I call it "The God Solution" (namely, the solution came from god). Unfortunately my program cannot find it anyway. This solution is also posted in the `src` folder.
