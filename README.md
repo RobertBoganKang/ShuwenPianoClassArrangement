@@ -5,8 +5,10 @@ Shuwen ([Zhang, Shuwen](http://imslp.org/wiki/Category:Zhang,_Shuwen)) got a new
 However, shuwen need a solution to arrange classes for his students, and he did it manually which cost him a long time to solve. Then, I give it a simple solution to find a seemingly satisfactory solutions for this problem.
 ## Problem Statement
 * **Arrangement Law**
+
 He needs to arrange 26 students once a week schedule
 * **Time Available**
+
 Each students has his/her time available for this class.
 
 For example:
