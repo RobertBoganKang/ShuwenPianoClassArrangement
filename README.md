@@ -22,9 +22,9 @@ There problem is really hard to solve if we need to find a good solution. Unfort
 
 Since this problem has so many cases to consider, we cannot solve it within our life time, here is several methods:
 
-Method I: we can just guess the solution, if it is not satisfied we will guess other solutions until find one.
+Method I: just guess the solution, if it is not satisfied we will guess other solutions until find one.
 
-Method II (trial): this method is purely the DFS method that will consider all cases which is impossible.
+Method II (trial): the DFS method that will consider all cases which is impossible.
 
 ## Interesting Story
 Although this is super hard problem to solve, Shuwen has find one solution I call it "The God Solution" (namely, the solution came from god). Unfortunately my program cannot find it anyway. This solution is also posted in the `src` folder.
