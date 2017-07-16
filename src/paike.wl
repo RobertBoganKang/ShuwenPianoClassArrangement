@@ -11,7 +11,7 @@ data=SortBy[dat,-#[[2]]&];
 (*data=Select[dat,#[[2]]!=0&];*)
 names=Table[i->data[[i,1]],{i,Length@data}];names=Append[names,0->""];
 (*Generate Candidate Tables*)
-personalFrees=Table[dateSplt=StringSplit[data[[l,3]],{"\:3001"}];
+personalFrees=Table[dateSplt=StringSplit[data[[l,3]],{"\:3001","\:ff1b",";"}];
 cpyzeros=zeros;
 Do[strTake=StringTake[dateSplt[[k]],1]/.xingqi;
 strDrop=StringDrop[dateSplt[[k]],1];
@@ -51,7 +51,7 @@ data=RandomSample[dat];
 credit=data[[;;,2]];
 names=Table[i->data[[i,1]],{i,Length@data}];names=Append[names,0->""];
 (*Generate Candidate Tables*)
-personalFrees=Table[dateSplt=StringSplit[data[[l,3]],{"\:3001",";"}];
+personalFrees=Table[dateSplt=StringSplit[data[[l,3]],{"\:3001","\:ff1b",";"}];
 cpyzeros=zeros;
 Do[strTake=StringTake[dateSplt[[k]],1]/.xingqi;
 strDrop=StringDrop[dateSplt[[k]],1];
