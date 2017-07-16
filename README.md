@@ -5,7 +5,7 @@ Shuwen ([Zhang, Shuwen](http://imslp.org/wiki/Category:Zhang,_Shuwen)) got a new
 However, shuwen need a solution to arrange classes for his students, and he did it manually which cost him a long time to solve. Then, I give it a simple solution (naive algorithm) to find a seemingly satisfactory solutions for this problem.
 ## Problem Statement
 ### Arrangement Law
-Arrange 26 students once a week schedule
+Arrange given students once a week schedule
 ### Time Available
 Each students has his/her time available for this class.
 
